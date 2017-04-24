@@ -1,0 +1,186 @@
+{
+  "ChannelList": [
+    {
+      "Src": "http://192.168.18.235/live/CCTV1HD/CCTV1HD.m3u8",
+      "ChannelNum": 1,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/c6cfbb28669a8547a11c244e73a6d371_14848204102.png",
+      "ChannelPicURLRelatvie": "/Main/resource/c6cfbb28669a8547a11c244e73a6d371_14848204102.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV1HD",
+        "en-US": "CCTV1HD"
+      },
+      "ID": 49,
+      "ChannelPicSize": 2033
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV2/CCTV2.m3u8",
+      "ChannelNum": 2,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/450b246ee1ee00aaaf39a6ac15f4f046_148446386779.png",
+      "ChannelPicURLRelatvie": "/Main/resource/450b246ee1ee00aaaf39a6ac15f4f046_148446386779.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV2",
+        "en-US": "CCTV2"
+      },
+      "ID": 37,
+      "ChannelPicSize": 20761
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV5/CCTV5.m3u8",
+      "ChannelNum": 3,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/06733701b970e6afff7d16d669f9d304_148446390905.png",
+      "ChannelPicURLRelatvie": "/Main/resource/06733701b970e6afff7d16d669f9d304_148446390905.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV4",
+        "en-US": "CCTV4"
+      },
+      "ID": 38,
+      "ChannelPicSize": 21009
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV7/CCTV7.m3u8",
+      "ChannelNum": 4,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/7eac640411bb4a1221797f6cddc617b0_148446406744.png",
+      "ChannelPicURLRelatvie": "/Main/resource/7eac640411bb4a1221797f6cddc617b0_148446406744.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV7",
+        "en-US": "CCTV7"
+      },
+      "ID": 39,
+      "ChannelPicSize": 21106
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV10/CCTV10.m3u8",
+      "ChannelNum": 5,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/47e3d4f7143e4852f664d09b59e14949_148446409624.png",
+      "ChannelPicURLRelatvie": "/Main/resource/47e3d4f7143e4852f664d09b59e14949_148446409624.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV10",
+        "en-US": "CCTV10"
+      },
+      "ID": 40,
+      "ChannelPicSize": 20787
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV11/CCTV11.m3u8",
+      "ChannelNum": 6,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/18433b7111fdd290856131abab960c63_148446413354.png",
+      "ChannelPicURLRelatvie": "/Main/resource/18433b7111fdd290856131abab960c63_148446413354.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV11",
+        "en-US": "CCTV11"
+      },
+      "ID": 41,
+      "ChannelPicSize": 20685
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV12/CCTV12.m3u8",
+      "ChannelNum": 7,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/167dfdbf1d523f70404beb695bb7a615_148446417781.png",
+      "ChannelPicURLRelatvie": "/Main/resource/167dfdbf1d523f70404beb695bb7a615_148446417781.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV12",
+        "en-US": "CCTV12"
+      },
+      "ID": 42,
+      "ChannelPicSize": 21078
+    },
+    {
+      "Src": "http://192.168.18.235/live/CCTV15/CCTV15.m3u8",
+      "ChannelNum": 8,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/bc71a947195b7e66a2a03e7f8e5c9d80_14844644760.png",
+      "ChannelPicURLRelatvie": "/Main/resource/bc71a947195b7e66a2a03e7f8e5c9d80_14844644760.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "CCTV15",
+        "en-US": "CCTV15"
+      },
+      "ID": 46,
+      "ChannelPicSize": 20749
+    },
+    {
+      "Src": "http://192.168.18.235/live/HNTVHD/HNTVHD.m3u8",
+      "ChannelNum": 9,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/51ee36ed09f29697a51fc678c9649588_148446481992.png",
+      "ChannelPicURLRelatvie": "/Main/resource/51ee36ed09f29697a51fc678c9649588_148446481992.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "湖南卫视",
+        "en-US": "HuNan"
+      },
+      "ID": 44,
+      "ChannelPicSize": 19656
+    },
+    {
+      "Src": "http://192.168.18.235/live/JSTVHD/JSTVHD.m3u8",
+      "ChannelNum": 10,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/2428ebeae76e0e6dab6cdff4c89f6a55_148446485276.png",
+      "ChannelPicURLRelatvie": "/Main/resource/2428ebeae76e0e6dab6cdff4c89f6a55_148446485276.png",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "江苏卫视",
+        "en-US": "JiangSu"
+      },
+      "ID": 47,
+      "ChannelPicSize": 18528
+    },
+    {
+      "Src": "http://192.168.18.101/openvod/now/Video/resource/fengkuangdongwucheng.mp4",
+      "ChannelNum": 11,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/a44dc3df64a7c949bb31f0db412ce328_148482056994.png",
+      "ChannelPicURLRelatvie": "/Video/resource/330fc73df0c2d3639ad37f034a5c009a_148689321932.jpg",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "疯狂动物城",
+        "en-US": "Zootopia"
+      },
+      "ID": 50,
+      "ChannelPicSize": 1173
+    },
+    {
+      "Src": "http://192.168.18.101/openvod/now/Video/resource/xialuotedefannao.mp4",
+      "ChannelNum": 11,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/a44dc3df64a7c949bb31f0db412ce328_148482056994.png",
+      "ChannelPicURLRelatvie": "/Video/resource/cac491b4a5e46c236f62981fae2d2de3_14868970401.jpg",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "夏洛特烦恼",
+        "en-US": "Goodbye Mr. Loser"
+      },
+      "ID": 50,
+      "ChannelPicSize": 1173
+    },
+    {
+      "Src": "http://192.168.18.101/openvod/now/Video/resource/suduyujiqing7.mp4",
+      "ChannelNum": 11,
+      "ViewID": 29,
+      "ChannelPicURL": "http://mres.cleartv.cn/default/a44dc3df64a7c949bb31f0db412ce328_148482056994.png",
+      "ChannelPicURLRelatvie": "/Video/resource/830bf85fe925564115a59418a783a6ef_148706271378.jpg",
+      "SrcBackup": null,
+      "ChannelName": {
+        "zh-CN": "速度与激情7",
+        "en-US": "Fast & Furious 7"
+      },
+      "ID": 50,
+      "ChannelPicSize": 1173
+    }
+  ]
+}
